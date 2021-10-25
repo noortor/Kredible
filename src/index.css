@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&display=swap');
+
+body {
+  margin: 0 !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.container {
+  max-width: '100%'
+}
+.h1 {
+  font-size: 100px;
+  
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.credit-score {
+  background-color: #324DAE;
+  text-align: center;
+  font-family: 'Patrick Hand SC', cursive;
+  color: white;
+  font-size: 30px;
+}
+
+#pay-card {
+  position: relative;
+}
+
+#food {
+  font-family: 'Patrick Hand SC', cursive;
+  color: black;
+  font-size: 30px;
+}
+.spacing {
+  padding:10px;
+  justify-content: center !important;
+}
+
+.controls {
+  text-align: center;
+  font-family: 'Patrick Hand SC', cursive;
+  color: white;
+  font-size: 50px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.auth {
+  font-family: 'Patrick Hand SC', cursive;
+  color: black;
+  font-size: 16px;
+}
+
+.auth-title {
+  background-color: white;
+  color: black;
+  font-size: 30px;
+}
+
+.auth-button {
+  margin-top: 20px;
+}
+
+.logout .btn-link {
+  color: white;
+  font-size: 30px;
+  display:flex; 
+  justify-content:flex-end; 
+  align-items:center; 
+  text-decoration: none; 
+}
+
+.logout .btn-link:hover {
+  color: grey;
+}
+ 
+.form-group {
+  display: inline-block;
+  margin-top: 50px;
+  
+}
+
+.title {
+  background-color: #324DAE;
+  text-align: center;
+  font-family: 'Patrick Hand SC', cursive;
+  color: white;
+  font-size: 50px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.title2 {
+  background-color: #324DAE;
+  text-align: center;
+  font-family: 'Patrick Hand SC', cursive;
+  color: white;
+  font-size: 30px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+
+.buttonSpacing {
+  padding-right: 30px;
+}
+.spacing-bottom {
+  padding-bottom: 80px;
+}
+.spacing-top {
+  padding-top: 0px;
+}
+
+
